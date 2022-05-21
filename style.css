@@ -1,0 +1,12 @@
+.btns {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    min-height: 100vh;
+    text-align: center;
+}
+
+.btn {
+    border-radius: 10px;
+    border-color: white;
+}
